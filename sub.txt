@@ -1,0 +1,1 @@
+vless://test-uuid-for-happ@1.1.1.1:443?encryption=none&security=tls&sni=example.com&type=tcp#TestServer
